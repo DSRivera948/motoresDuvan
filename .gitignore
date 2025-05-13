@@ -1,0 +1,6 @@
+node_modules/
+.env
+docker-data/
+*.log
+__pycache__/
+*.sqlite3
